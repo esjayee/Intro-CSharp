@@ -6,7 +6,7 @@ namespace Mod3_Lab1
     {
         static void Main()
         {
-
+            Sum(20, 45);
         }
 
         // Sum() method that takes two integer arguments and sums them
