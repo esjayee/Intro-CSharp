@@ -44,7 +44,7 @@ namespace Mod3_Lab2
             }
             catch (DivideByZeroException ex)
             {
-                Console.WriteLine("Whoops! Cannot divide by zero, please provide a non-zero value for your second value");
+                Console.WriteLine("Whoops.\n\nCannot divide by zero, please provide a non-zero value for your second value");
             }
 
             return result;
